@@ -5,7 +5,7 @@ coverImage: "/assets/blog/images/secondpost.jpg"
 date: "2025-08-28T00:39:32.000Z"
 author:
   name: Faaiza Bano
-  picture: "/assets/blog/authors/Faaiza.png"
+  picture: "/assets/blog/authors/faaiza.png"
 ogImage:
   url: "/assets/blog/images/secondpost.jpg"
 ---
