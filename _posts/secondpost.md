@@ -1,13 +1,13 @@
 ---
-title: "My First Post"
-excerpt: "This is the very first post"
-coverImage: "/assets/blog/images/firstpost.jpeg"
-date: "2025-08-28T00:28:32.000Z"
+title: "My Second Post"
+excerpt: "This is the very second post"
+coverImage: "/assets/blog/images/secondpost.jpg"
+date: "2025-08-28T00:39:32.000Z"
 author:
-  name: Shubhangi Sharma
-  picture: "/assets/blog/authors/shubhangi.png"
+  name: Faaiza Bano
+  picture: "/assets/blog/authors/Faaiza.png"
 ogImage:
-  url: "/assets/blog/images/firstpost.jpeg"
+  url: "/assets/blog/images/secondpost.jpg"
 ---
 
 
