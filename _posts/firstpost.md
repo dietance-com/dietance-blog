@@ -1,3 +1,15 @@
+---
+title: "My First Post"
+excerpt: "This is the very first post"
+coverImage: "/assets/blog/hello-world/cover.webp"
+date: "28-08-2025"
+author:
+  name: Yudhvir
+  picture: "/assets/blog/authors/tim.jpeg"
+ogImage:
+  url: "/assets/blog/hello-world/cover.webp"
+---
+
 
 # **Roasted Lemon Herb Chicken and Potatoes**
 
