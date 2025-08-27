@@ -2,7 +2,7 @@
 title: "My First Post"
 excerpt: "This is the very first post"
 coverImage: "/assets/blog/hello-world/cover.webp"
-date: "2020-03-16T05:35:07.322Z"
+date: "2025-08-28T00:28:32.000Z"
 author:
   name: Yudhvir
   picture: "/assets/blog/authors/tim.jpeg"
