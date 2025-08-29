@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "A Fresh Start: Your Journey to Health"
 excerpt: "This is the very first post"
 coverImage: "/assets/blog/images/firstpost.jpeg"
-date: "2025-08-28T00:28:32.000Z"
+date: "2025-08-30T00:28:32.000Z"
 author:
   name: Shubhangi Sharma
   picture: "/assets/blog/authors/shubhangi.png"
@@ -10,53 +10,23 @@ ogImage:
   url: "/assets/blog/images/firstpost.jpeg"
 ---
 
+I'm glad you're here. It can feel like a lonely journey trying to figure out what to eat, especially with so much confusing information out there. Maybe you’re feeling tired, frustrated, or just plain lost when it comes to your health. I want you to know that you’re not alone and that it's okay to feel that way.
 
-# **Roasted Lemon Herb Chicken and Potatoes**
+My name is Shubhangi Sharma, and I’m a compassionate guide and a cheerleader who’s here to support you. I believe that food should be a source of joy and nourishment, not a source of stress or guilt. My approach is rooted in kindness and understanding, focusing on creating a plan that truly works for you—for your life, your tastes, and your goals.
 
-This one-pan meal is perfect for a weeknight dinner. It's easy to prepare, requires minimal cleanup, and the result is a flavorful, juicy chicken with tender, golden-brown potatoes.
+Whether you're dealing with a health concern, hoping to find more energy, or simply want to feel more at peace with your body, I'm here to walk alongside you. This space is all about helping you build a healthier, happier relationship with food and yourself.
 
-**Prep Time:** 15 minutes **Cook Time:** 45-50 minutes **Servings:** 4
+---
 
-----------
+## What You'll Find Here
 
-### **Ingredients**
+On this blog, you’ll discover:
 
--   2 lbs boneless, skinless chicken thighs or breasts
-    
--   1.5 lbs small gold or red potatoes, halved
-    
--   1 large lemon, sliced into rounds
-    
--   4 cloves garlic, smashed
-    
--   2 tbsp olive oil
-    
--   1 tbsp fresh rosemary, chopped
-    
--   1 tsp dried oregano
-    
--   1/2 tsp paprika
-    
--   Salt and black pepper to taste
-    
+* Delicious recipes that nourish your body and soul
+* Simple, practical tips for everyday eating
+* Gentle, evidence-based nutrition advice
+* A place to find community and support
 
-----------
+---
 
-### **Instructions**
-
-1.  Preheat your oven to 400°F (200°C).
-    
-2.  In a large bowl, combine the halved potatoes, smashed garlic cloves, 1 tablespoon of olive oil, chopped rosemary, oregano, paprika, and a generous pinch of salt and pepper. Toss until the potatoes are evenly coated.
-    
-3.  Spread the seasoned potatoes and garlic in a single layer on a large baking sheet.
-    
-4.  Pat the chicken pieces dry with a paper towel. Drizzle the remaining 1 tablespoon of olive oil over the chicken and season with salt and pepper.
-    
-5.  Arrange the chicken pieces among the potatoes on the baking sheet. Place the lemon slices on top of and around the chicken.
-    
-6.  Bake for 45-50 minutes, or until the chicken is cooked through and the potatoes are tender and golden. The internal temperature of the chicken should reach 165°F (74°C).
-    
-7.  Let the dish rest for a few minutes before serving.
-    
-
-**Tip:** For extra flavor and crispy skin on bone-in chicken, use bone-in, skin-on thighs and broil for the last 2-3 minutes of cooking.
+Thank you for trusting me to be a part of your journey. Let's start building a beautiful, healthy life together, one meal at a time.
